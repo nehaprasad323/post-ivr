@@ -1,1 +1,1 @@
-pip install fastapi uvicorn jinja2 ollama python-multipart
+pip install fastapi uvicorn jinja2 ollama python-multipart;
